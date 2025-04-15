@@ -1,76 +1,23 @@
-JOSEPH MUNGOMA
-What is the CLI and how to work with it.
-Ans: 
-Command Line Interface is an interface where where the user (developer) types commands using the keyboard to tell the computer which actions to take.
+## JOSEPH MUNGOMA
 
-What is a versioning control system and why we need it.
-Ans: 
-Versioning control system is a flow process using git and github to make changes, maintain, back up and share our codebases. We need it to navigate between different states of texts, files or code that are within the developer's repository. 
+### I am long term life student whose interest is in all matters technical. As a Data Analyst, I can prove how the concept of data analysis applies to ALL aspects of our day to day. With over 5 years of experience in managing data and also working on technical applications, naturally I have discovered how my career seamlessly especially managing data and processing information overlaps with my ins and out when outside my professional environment. To know me is to know that I never shy from challenges and exposure to different technological environments. I welcome you to join me as I tranform into a data analysis specialist.
 
+My Data Analytics Goals:
 
-Understand the differences between Git and GitHub?
-Ans: 
-Git is a local repository that stores versioned files locally in the form of commits in a computer while GitHub is a web interface remote repository that stores versioned files on the cloud so that they are available to whoever has permission.
+1. Hone my data analysis techniques and skills to solve challenges faced in the business world. and apply them in relevant business concepts.
+2. Create multiple projects that will display different ways of interpreting data to inform decisions, strategically.
+3. Achieve fluency in the coding language of python, dive into data visualization fundamentals and understand the architecture of data structures for better insights using SQL.
+4. Apply the skills I learn in this cohort to change the trajectory of my career and make a difference as a data analytics professional.
 
 
-Understand the difference between the main branch and other branches of a repository.
-Ans:
-Main branch-
-Main working area for the developer.
-Indicated by main/master in the GitBash terminal following the folder name.
-You can create a branch from it.
-Sub-branch-
-Changes made to a sub-branch are isolated to that branch only until it is merged back into the master/main branch.
-Sub-branch name is usually inside the parenthesis after the folder name.
-You cannot create a main branch in the sub branch.
+My go-to YouTube Github tutorial video: [Git Tutorial](https://www.youtube.com/watch?v=mJ-qvsxPHpY)
 
-Understand what an IDE is.
-Not covered in class in week 1
 
-How to open and use VS Code.
-Ans: 
-In your desired directory, by typing in "code ." and pressing Enter on your keyboard will open VS Code while in your terminal or by pressing "Ctrl -`"
-VSCode terminal uses the same commands as Git and GitBash terminals. 
+##### *Life Before Data Analysis & Python Programming with Savvy Coders:*
+![life without data analytics](https://github.com/user-attachments/assets/37ba0f05-f4cc-46e7-9f44-9496e0b29111 "Young Professionals Staring at a Board")
 
-Development tools -- CLI, Git and GitHub, and VS Code
-Not covered in class in week 1
+##### *Life After Data Analysis & Python Programming Cohort with Savvy Coders:*
+![life with data analytics](https://github.com/user-attachments/assets/057439fb-ecf5-43cf-8bbc-f085e6d691f2 "Young Professionals After Data")
 
-Know what Jupyter Notebooks are
-Not covered in class in week 1
-
-how to Install and start up Jupyter Notebooks
-Not covered in class in week 1
-
-how to use Jupyter Notebooks inside of VS Code
-Not covered in class in week 1
-
-read the resources on beautifying Jupyter Notebooks
-
-Know what type of programming language the Python language is
-
-Know how to install Python
-Installed during class with help from the TA
-
-Know how to start coding Python
-Not covered in class in week 1
-
-how to create Python files in VS Code
-Not covered in class in week 1
-
-how to write Python code inside a Jupyter Notebook
-Not covered in class in week 1
-
-Understand how to run your Python code
-Not covered in class in week 1
-
-how to run Python code files in the CLI
-Not covered in class in week 1
-
-how to run Python code files in VS Code
-Not covered in class in week 1
-
-how to run Python code files in Jupyter Notebooks
-Not covered in class in week 1
-
-Understand some basics about debugging
-Not covered in class in week 1
+The two images attached are a representation of my anticipation, realization and expectation from this cohort. 
+I am excited to go from a state of not knowing to learning techniques of collecting and organizing data and finally understanding how to present information to solve real life business problems.
