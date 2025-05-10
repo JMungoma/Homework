@@ -116,7 +116,7 @@ FastCharge = FastCharge * 0.621371;
 
 ### - 4.5 Check your work 
 SELECT 
-EfficiencyM,
+Efficiency,
 FastCharge
 FROM evCars;
 
@@ -149,7 +149,7 @@ SELECT RapidCharge, COUNT(*)
 FROM evCars
 GROUP BY RapidCharge;
 
-### - 5.2 making data cleaning choices 
+### - 5.2 Making data cleaning choices 
 SELECT RapidCharge,
 	CASE WHEN RapidCharge LIKE '%not possible' THEN 1
 	ELSE 0
@@ -179,9 +179,9 @@ GROUP BY PowerTrain;
 
 ### - 6.2 Please fill in the blank on your .md answer sheet
 - look at the three DISTINCT values from the query you wrote in 6.1 and fill in the blanks.
-- If the PowerTrain equals All Wheel Drive then I want you to change the value to 'AWD'
-- If the PowerTrain equals Rear Wheel Drive then I want you to change the value to 'RWD'
-- If the PowerTrain equals Front Wheel Drive then I want you to change the value to 'FWD'
+- If the PowerTrain equals 'All Wheel Drive' then I want you to change the value to 'AWD'
+- If the PowerTrain equals 'Rear Wheel Drive' then I want you to change the value to 'RWD'
+- If the PowerTrain equals 'Front Wheel Drive' then I want you to change the value to 'FWD'
 
 ### - 6.3 Write three update statements for the three different conditions 
 UPDATE evCars
